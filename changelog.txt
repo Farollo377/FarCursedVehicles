@@ -1,0 +1,11 @@
+6/20/2026 - Overhaul Long Due
+
+-Most of the Sherman variants have been switched over to the 60s Adams as a base, with the older ECM/ESM sets.
+
+-Base F. Sherman has an "Early" loadout with the fixed TTs and the two 3"/50 guns. Done so that missions made before this update (and, more importantly, are meant to be post-1950s) aren't borked with anachronistic Shermans. I'm using Mk37 Mod 0 ASW Torpedoes as a stand-in, I don't think anyone will give a shit either way.
+
+-SPS-12 texture nabbed from NTU.
+
+
+
+7/22/2026 - v0.8.1
